@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asia
-- 👀 I’m interested in programming, machine learning 
-- 🌱 I’m currently refreshing Java programming and ML
+- 👀 I’m interested in machine learning, data analytics, ML ops, expanding my programming skills
+- 🌱 I’m currently getting familiar with ML ops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asia
-- 👀 I’m interested in machine learning, data analytics, ML ops, expanding my programming skills
+- 👀 I’m interested in refreshing my problem solving, machine learning, data analytics, ML ops, expanding my programming skills
 - 🌱 I’m currently getting familiar with ML ops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
